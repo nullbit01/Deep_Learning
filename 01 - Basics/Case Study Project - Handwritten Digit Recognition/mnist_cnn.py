@@ -1,4 +1,5 @@
 # Simple CNN for the MNIST Dataset
+
 import numpy
 from keras.datasets import mnist
 from keras.models import Sequential
